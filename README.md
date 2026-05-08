@@ -17,7 +17,7 @@ Interested in low-level systems programming, software security, and web developm
 
 ## Tech
 
-**Languages** — C, C++, TypeScript, JavaScript, Python , Java 
+**Languages** — C, C++, TypeScript, JavaScript, Java, Python  
 **Web** — React, Node.js, Express, Tailwind CSS  
 **Systems** — Windows Internals, IDA Pro, Ghidra, WDK  
 **Tools** — Git, VS Code, Visual Studio, CMake
