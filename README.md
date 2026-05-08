@@ -1,16 +1,39 @@
-## Hi there 👋
+# Nikolaos Loukopoulos
 
-<!--
-**nicklouko/nicklouko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Digital Systems student at the University of Piraeus, graduating Summer 2026.  
+Interested in low-level systems programming, software security, and web development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+- 🎓 B.Sc. in Digital Systems — University of Piraeus
+- 🔬 Thesis: Using Generative AI to Assist in Reverse Engineering
+- 🌐 Building full-stack web applications with React, TypeScript, and Node.js
+- 🔩 Self-directed research in Windows internals, binary analysis, and kernel development
+- 📍 Athens, Greece
+
+---
+
+## Tech
+
+**Languages** — C, C++, TypeScript, JavaScript, Python , Java 
+**Web** — React, Node.js, Express, Tailwind CSS  
+**Systems** — Windows Internals, IDA Pro, Ghidra, WDK  
+**Tools** — Git, VS Code, Visual Studio, CMake
+
+---
+
+## Projects
+
+| Project | Description |
+|--------|-------------|
+| [React Movie Search App](https://github.com/nicklouko/React-Movie-Search-App) | Movie search and favourites app built with React and the TMDB API |
+| [Process Walker](https://github.com/nicklouko/process-walk-driver) | Windows kernel driver that enumerates processes by walking the EPROCESS list |
+| [Windows DLL Injection Research](https://github.com/nicklouko/Simple-DLL-Injector) | Educational implementation of DLL injection techniques for studying Windows process internals |
+
+---
+
+## Contact
+
+[loukopoulosn@gmail.com](mailto:loukopoulosn@gmail.com)
