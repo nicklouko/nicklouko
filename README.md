@@ -32,8 +32,4 @@ Interested in low-level systems programming, software security, and web developm
 | [Process Walker](https://github.com/nicklouko/process-walk-driver) | Windows kernel driver that enumerates processes by walking the EPROCESS list |
 | [Windows DLL Injection Research](https://github.com/nicklouko/Simple-DLL-Injector) | Educational implementation of DLL injection techniques for studying Windows process internals |
 
----
 
-## Contact
-
-[loukopoulosn@gmail.com](mailto:loukopoulosn@gmail.com)
